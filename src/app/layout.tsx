@@ -1,4 +1,4 @@
-import '@/globals.css';
+import './globals.css';
 import { AddressBar } from '@/ui/address-bar';
 import MrbPriceBanner from '@/ui/price-banner';
 import { GlobalNav } from '@/ui/global-nav';
